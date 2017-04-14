@@ -1,0 +1,33 @@
+/* --- Style Sheet --- */
+
+/* --- Header --- */
+
+#container {
+	border: solid green 3px;
+}
+/* --- Main --- */
+
+nav {
+	width: 194px;
+	border: solid rebeccapurple 3px;
+	max-width: 200px;
+	position: absolute;
+}
+section {
+	border: solid green 3px;
+	margin-left: 200px;
+}
+.blog {
+	border: solid orange 3px;
+}
+
+/* --- Footer --- */
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: white;
+	width: 100%;
+	border: solid green 3px;
+}

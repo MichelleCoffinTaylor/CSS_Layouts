@@ -1,0 +1,15 @@
+/* --- Style Sheet --- */
+#container {
+	width: 100%;
+}
+.grid {
+	width: 100%;
+}
+.section {
+	width: 10%;
+	background-color: orange;
+	margin: 0;
+	height: 200px;
+	float: left;
+	border: solid rebeccapurple .5px;
+}
